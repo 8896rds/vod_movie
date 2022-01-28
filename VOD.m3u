@@ -1,0 +1,12 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+
+#EXTINF:-1, tvg-logo="" group-title="VOD",@BM_Links.Zack.Snyders.Justice.League.2021.1080p.AMZN.WEB DL.mkv
+https://www.googleapis.com/drive/v3/files/1sg6EScl3jgQ2oF7cY7ue6xVvpvYUPqEs/?alt=media&key=AIzaSyDlgapwnjZbUtMDq0hzm-j2PT1_SQHcjsM
+#EXTINF:-1, tvg-logo="" group-title="VOD",Paani Ch Madhaani 2021 x264 720p Chaupal WebHD Esub AAC Punjabi THE GOPI SAHI.mkv
+https://www.googleapis.com/drive/v3/files/1-NkoloXHZAZTZr_1EIl8ZuPW5mooJIDQ/?alt=media&key=AIzaSyDlgapwnjZbUtMDq0hzm-j2PT1_SQHcjsM
+#EXTINF:-1, tvg-logo="" group-title="VOD",Thana Sadar (2021) Punjabi Full Movie 720p HDRip ESubs 1.1GB.mkv
+https://www.googleapis.com/drive/v3/files/1LvkxiETiagolUnpDNWyw2oJRCYDYr_D2/?alt=media&key=AIzaSyDlgapwnjZbUtMDq0hzm-j2PT1_SQHcjsM
+#EXTINF:-1, tvg-logo="" group-title="VOD",Singh.Is.King.2008.Hindi.720p.WEB-DL.x264.mkv
+https://www.googleapis.com/drive/v3/files/1BORr4UqOlNmHOwE88JIL1Vbwa-yLyjBE/?alt=media&key=AIzaSyDlgapwnjZbUtMDq0hzm-j2PT1_SQHcjsM
+#EXTINF:-1, tvg-logo="" group-title="VOD",Pyaar Ka Punchnama.2011.Hindi.NF.WEBDL.720p.x264.AAC.Esubs.1.mkv
+https://www.googleapis.com/drive/v3/files/1K_eI8jsWKQ8soICB7nOpAZnaA8VEOATa/?alt=media&key=AIzaSyDlgapwnjZbUtMDq0hzm-j2PT1_SQHcjsM
